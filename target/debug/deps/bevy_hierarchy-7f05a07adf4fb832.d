@@ -1,0 +1,11 @@
+D:\GitHub\AI_othelo\target\debug\deps\bevy_hierarchy-7f05a07adf4fb832.rmeta: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\components\mod.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\components\children.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\components\parent.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\hierarchy.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\child_builder.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\events.rs
+
+D:\GitHub\AI_othelo\target\debug\deps\bevy_hierarchy-7f05a07adf4fb832.d: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\components\mod.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\components\children.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\components\parent.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\hierarchy.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\child_builder.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\events.rs
+
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\components\mod.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\components\children.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\components\parent.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\hierarchy.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\child_builder.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_hierarchy-0.8.1\src\events.rs:

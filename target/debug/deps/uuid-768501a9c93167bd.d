@@ -1,0 +1,15 @@
+D:\GitHub\AI_othelo\target\debug\deps\uuid-768501a9c93167bd.rmeta: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\builder.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\error.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\parser.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\fmt.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\timestamp.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\v4.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\rng.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\external.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\external\serde_support.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\macros.rs
+
+D:\GitHub\AI_othelo\target\debug\deps\uuid-768501a9c93167bd.d: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\builder.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\error.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\parser.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\fmt.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\timestamp.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\v4.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\rng.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\external.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\external\serde_support.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\macros.rs
+
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\builder.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\error.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\parser.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\fmt.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\timestamp.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\v4.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\rng.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\external.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\external\serde_support.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-1.2.2\src\macros.rs:

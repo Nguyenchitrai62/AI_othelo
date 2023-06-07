@@ -1,0 +1,10 @@
+D:\GitHub\AI_othelo\target\debug\deps\inplace_it-8a0df593764212ef.rmeta: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\mod.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\uninitialized_slice_memory_guard.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\slice_memory_guard.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\fixed_array.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\alloc_array.rs
+
+D:\GitHub\AI_othelo\target\debug\deps\inplace_it-8a0df593764212ef.d: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\mod.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\uninitialized_slice_memory_guard.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\slice_memory_guard.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\fixed_array.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\alloc_array.rs
+
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\mod.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\uninitialized_slice_memory_guard.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\guards\slice_memory_guard.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\fixed_array.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.5\src\alloc_array.rs:

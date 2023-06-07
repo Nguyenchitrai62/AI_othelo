@@ -1,0 +1,13 @@
+D:\GitHub\AI_othelo\target\debug\deps\cc-b26fe46179c39ecf.rmeta: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\registry.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\winapi.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\com.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\setup_config.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\vs_instances.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\windows_registry.rs
+
+D:\GitHub\AI_othelo\target\debug\deps\libcc-b26fe46179c39ecf.rlib: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\registry.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\winapi.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\com.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\setup_config.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\vs_instances.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\windows_registry.rs
+
+D:\GitHub\AI_othelo\target\debug\deps\cc-b26fe46179c39ecf.d: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\registry.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\winapi.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\com.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\setup_config.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\vs_instances.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\windows_registry.rs
+
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\registry.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\winapi.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\com.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\setup_config.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\vs_instances.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.78\src\windows_registry.rs:

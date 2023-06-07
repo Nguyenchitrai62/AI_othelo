@@ -1,0 +1,13 @@
+D:\GitHub\AI_othelo\target\debug\deps\erased_serde-7ffb4d229346cbd0.rmeta: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\macros.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\any.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\de.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\error.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\features_check\mod.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\map.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\ser.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\private.rs
+
+D:\GitHub\AI_othelo\target\debug\deps\erased_serde-7ffb4d229346cbd0.d: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\macros.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\any.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\de.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\error.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\features_check\mod.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\map.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\ser.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\private.rs
+
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\macros.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\any.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\de.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\error.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\features_check\mod.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\map.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\ser.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.24\src\private.rs:

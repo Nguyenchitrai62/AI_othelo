@@ -1,0 +1,13 @@
+D:\GitHub\AI_othelo\target\debug\deps\lyon_path-5f073ce45ae7ce22.rmeta: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\builder.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\commands.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\events.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\iterator.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path_buffer.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\polygon.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\private.rs
+
+D:\GitHub\AI_othelo\target\debug\deps\lyon_path-5f073ce45ae7ce22.d: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\builder.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\commands.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\events.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\iterator.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path_buffer.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\polygon.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\private.rs
+
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\builder.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\commands.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\events.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\iterator.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\path_buffer.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\polygon.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.17.7\src\private.rs:
