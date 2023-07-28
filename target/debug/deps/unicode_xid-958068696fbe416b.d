@@ -1,6 +1,0 @@
-D:\GitHub\AI_othelo\target\debug\deps\unicode_xid-958068696fbe416b.rmeta: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-xid-0.2.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-xid-0.2.4\src\tables.rs
-
-D:\GitHub\AI_othelo\target\debug\deps\unicode_xid-958068696fbe416b.d: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-xid-0.2.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-xid-0.2.4\src\tables.rs
-
-C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-xid-0.2.4\src\lib.rs:
-C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-xid-0.2.4\src\tables.rs:
