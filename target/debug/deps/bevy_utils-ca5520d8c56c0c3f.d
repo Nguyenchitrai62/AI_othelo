@@ -1,0 +1,12 @@
+D:\GitHub\AI_othelo\target\debug\deps\bevy_utils-ca5520d8c56c0c3f.rmeta: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\futures.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\label.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\short_names.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\default.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\float_ord.rs
+
+D:\GitHub\AI_othelo\target\debug\deps\libbevy_utils-ca5520d8c56c0c3f.rlib: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\futures.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\label.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\short_names.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\default.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\float_ord.rs
+
+D:\GitHub\AI_othelo\target\debug\deps\bevy_utils-ca5520d8c56c0c3f.d: C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\lib.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\futures.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\label.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\short_names.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\default.rs C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\float_ord.rs
+
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\futures.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\label.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\short_names.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\default.rs:
+C:\Users\ASUS\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_utils-0.8.1\src\float_ord.rs:
